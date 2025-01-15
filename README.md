@@ -13,4 +13,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omerfk1903&show_icons=true&locale=en&layout=compact" alt="omerfk1903" /></p>
 
-![snake gif](https://github.com/omerfk1903/omerfk1903/blob/output/github-contribution-grid-snake.gif)
+
